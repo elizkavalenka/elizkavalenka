@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hy, my name is **Lisa Kavalenka**!
+## I'm a beginner *Front-end developer* from Minsk.
+### Languages and Technologies
+![HTML]https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5.
+![CSS]https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3.
+![SASS]https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass.
+![SCSS]https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss.
 
-<!--
-**elizkovalenko/elizkovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning
+![JavaScript]https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my portfolio site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Mail me: elizkavalenka@gmail.com
+### Telegram, Instagram: @elizkavalenka
