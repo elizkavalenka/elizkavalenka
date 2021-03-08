@@ -5,8 +5,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
-![SCSS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=scss)
-![LESS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=less)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss)
+![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=less)
 
 🔭 I’m currently working on my portfolio site.
 
