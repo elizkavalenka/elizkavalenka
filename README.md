@@ -6,8 +6,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![SCSS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=scss)
+![LESS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=less)
 
-- 🔭 I’m currently working on my portfolio site.
+🔭 I’m currently working on my portfolio site.
 
 ### 📫 Mail me: elizkavalenka@gmail.com
 ### 🌐 Telegram, Instagram: @elizkavalenka
