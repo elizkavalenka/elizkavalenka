@@ -1,4 +1,4 @@
-# 👋 Hy, my name is **Lisa Kavalenka**!
+# 👋 Hy, my name is **Liza Kavalenka**!
 ## I'm a beginner *Front-end developer* from Minsk.
 ### Languages and Technologies
 ![HTML]https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5.
