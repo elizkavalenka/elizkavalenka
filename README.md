@@ -11,7 +11,5 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP)
 
-🔭 I’m currently working on my portfolio site.
-
 ### 📫 Mail me: elizkavalenka@gmail.com
 ### 🌐 Telegram, Instagram: @elizkavalenka
