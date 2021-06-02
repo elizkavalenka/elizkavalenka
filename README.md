@@ -12,4 +12,4 @@
 
 ### 📫 Mail me: elizkavalenka@gmail.com
 ### 💼 Linkedin.: linkedin.com/in/elizkavalenka
-### 🌐 Telegram: t.me/elizkavalenka
+### 🌐 Telegram: https://t.me/elizkavalenka
