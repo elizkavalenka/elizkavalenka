@@ -11,5 +11,5 @@
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP)
 
 ### 📫 Mail me: elizkavalenka@gmail.com
-### 💼 Linkedin.: linkedin.com/in/elizkavalenka
+### 💼 Linkedin.: https://www.linkedin.com/in/elizkavalenka
 ### 🌐 Telegram: https://t.me/elizkavalenka
