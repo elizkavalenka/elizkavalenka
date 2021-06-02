@@ -1,4 +1,4 @@
-# 👋 Hy, my name is **Liza Kavalenka**!
+# 👋 Hi, my name is **Liza Kavalenka**!
 ## I'm a beginner *Front-end developer* from Minsk.
 
 ### Languages and Technologies
