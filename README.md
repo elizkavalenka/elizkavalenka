@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Liza Kavalenka**!
-## I'm a *junior Front-End Developer* from Minsk.
+## I'm a *Front-End Developer* from Minsk.
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
