@@ -122,18 +122,6 @@ I treat AI as a **productivity multiplier** — never a replacement for engineer
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizkavalenka&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Liza's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizkavalenka&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I’m open to collaboration, interesting projects, and new career opportunities.
